@@ -6,6 +6,8 @@
 
 ## 接口 api 说明
 
+## testing github on new mac
+
 - api 基础地址
 
 https://mock.apifox.cn/m1/1124717-0-default
